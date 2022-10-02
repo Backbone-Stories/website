@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Posts
+title: Stories
 ---
 
-# Posts
+# Stories
 
 Browse all posts by month and year.
 

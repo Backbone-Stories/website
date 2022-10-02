@@ -135,10 +135,6 @@ nav:
 
 I love the intent behind [Quoteback](https://quotebacks.net) and my goal is to use them whenever I cite someone else. 
 
-## Interactive articles
-
-I'd like to try writing some interactive [explorable explanations](https://explorabl.es). The main tools I've looked at are [Curvenote](https://curvenote.dev) and [idyll](https://github.com/idyll-lang). I used [idyll-embed](https://github.com/idyll-lang/idyll-embed) to create the first explorable on the site - [Exploring the Drake Equation](https://bengoertz.com/2021/11/22/drake-equation/).
-
 ## Oops!
 
 Something broke again. Did I / you / me remember to:
@@ -147,7 +143,7 @@ Something broke again. Did I / you / me remember to:
 Did you set the [version of ruby](https://stackoverflow.com/a/54873916/5499522) using `chruby`?
 
 ```bash
-chruby 2.7.2
+chruby 2.7.3
 ```
 
 ### M1 Processor

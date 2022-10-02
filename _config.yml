@@ -1,6 +1,6 @@
 # Setup
-title: Ben Goertz
-url: https://bengoertz.com
+title: Backbone
+url: https://backbone-stories.github.io/website/
 paginate: 1
 paginate_path: "/page:num/"
 permalink: pretty
@@ -25,21 +25,13 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-# Specify the author for blog posts
-author:
-  name: Ben Goertz
-  url: https://twitter.com/suite22
-
 # Navbar page list
 nav:
   - title: About
     url: /about
 
-  - title: Posts
-    url: /posts
-
-  - title: Projects
-    url: /projects
+  - title: Stories
+    url: /stories
 
 # Conversion
 markdown: kramdown
