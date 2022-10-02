@@ -56,6 +56,14 @@ Now install the bundle:
 $ bundle install
 ```
 
+#### 2b. Updates
+
+To check for updates to gems run:
+
+```bash
+$ bundle update
+```
+
 ### 3. Running locally
 
 To see your Jekyll site with Poole applied, start a Jekyll server. In Terminal, from `/dark-poole` (or whatever your Jekyll site's root directory is named):
