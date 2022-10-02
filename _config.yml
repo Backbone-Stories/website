@@ -1,6 +1,7 @@
 # Setup
 title: Backbone
 url: https://backbone-stories.github.io/website/
+baseurl: /website
 paginate: 1
 paginate_path: "/page:num/"
 permalink: pretty
