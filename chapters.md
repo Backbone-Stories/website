@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Stories
+title: Chapters
 ---
 
-# Stories
+# Chapters
 
 Browse all posts by month and year.
 

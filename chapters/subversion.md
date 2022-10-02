@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Subversion
 image: ../../assets/subversion/midjourney-suit.jpg
 author: Ben Goertz

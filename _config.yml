@@ -1,6 +1,6 @@
 # Setup
 title: Exodus Stories
-url: https://backbone-stories.github.io/website/
+url: https://backbone-stories.github.io/website
 baseurl: /website
 paginate: 1
 paginate_path: "/page:num/"
@@ -28,8 +28,8 @@ sass:
 
 # Navbar page list
 nav:
-  - title: Stories
-    url: /stories
+  - title: Chapters
+    url: /chapters
 
   - title: About
     url: /about
