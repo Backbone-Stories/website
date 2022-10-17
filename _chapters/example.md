@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Example
 author: Ben Goertz
+chapter: 2
 ---
 
 # Example Story
