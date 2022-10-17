@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Example
 author: Ben Goertz
 chapter: 2
