@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: chapter
 title: Subversion
 image: ../../assets/subversion/midjourney-suit.jpg
 author: Ben Goertz
