@@ -1,7 +1,6 @@
 # Setup
 title: Exodus Stories
-url: https://backbone-stories.github.io/website
-baseurl: /website
+url: https://www.exodus-stories.space
 paginate: 1
 paginate_path: "/page:num/"
 permalink: pretty
