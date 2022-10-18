@@ -1,14 +1,16 @@
 # Setup
 title: Exodus Stories
 url: https://www.exodus-stories.space
-paginate: 1
-paginate_path: "/page:num/"
-permalink: pretty
+
+# Pagination
+pagination:
+  debug: true
+  collection: "chapters"
 
 # Gems
 plugins:
   - jekyll-gist
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-seo-tag
 
 # Optimize Jekyll
