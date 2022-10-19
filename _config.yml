@@ -4,6 +4,7 @@ url: https://www.exodus-stories.space
 
 # Pagination
 pagination:
+  enabled: true
   debug: true
   collection: "chapters"
 
@@ -29,9 +30,6 @@ sass:
 
 # Navbar page list
 nav:
-  - title: Chapters
-    url: /chapters
-
   - title: About
     url: /about
 

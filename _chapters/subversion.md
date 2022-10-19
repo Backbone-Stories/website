@@ -4,6 +4,9 @@ title: Subversion
 image: ../../assets/subversion/midjourney-suit.jpg
 author: Ben Goertz
 chapter: 1
+pagination: 
+  enabled: true
+  collection: chapters
 ---
 
 <script>
