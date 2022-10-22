@@ -49,8 +49,6 @@ pagination:
 <a id="dalleLink" href="javascript:void(0)" onclick="changeTo('dalle');">DALL·E</a>
 <a id="aloneLink" href="javascript:void(0)" onclick="changeTo('alone');">Alone</a> 
 
-# Subversion 
-
 <div class="midjourney"><img alt="The sound waves forming an almost harmonious unified chorus and then drifting to discordance." src="../../assets/subversion/midjourney-drifting-to-discordance.jpg"></div>
 
 <div class="dalle"><a title="DALL·E Info" href="https://labs.openai.com/s/AWqqhYIwbsZ9Uxs2Na1PbLsC"><img alt="Fluctuations of the competing sounds together forming an almost harmonious unified chorus and then drifting to discordance" src="../../assets/dalle2-subversion-botany.jpg"></a></div>
