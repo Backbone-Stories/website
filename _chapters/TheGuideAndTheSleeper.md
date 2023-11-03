@@ -311,11 +311,11 @@ Vira wiped her eyes and looked up at the small black spot on the wall which hous
 Cadden wiped her eyes without reacting. 
 “And… Do they know who did it?” Cadden said flatly.
 
-A man named Artur was arrested several blocks away from the scene of the crime, covered in their blood. He apparently had maintained an unhealthy fixation with Cadden for years, who had rebuffed his advances by claiming that her parents would never approve. It was true, they certainly would not have, and it was theorized that this led him to the violent murder. However, something about the situation made no sense to Vira. Could he truly have expected her to accept him after murdering her parents? He had been unaware that Cadden was embarking with the Herja, and this was taken as evidence that he had also intended for her to be his third victim. But once he learned of her departure, he changed his story, stating that Cadden had put him up to it. No one believed him. Sitting across from the young woman, who was now calm, Vira realized that she wasn’t sure. 
+A man named Mason was arrested several blocks away from the scene of the crime, covered in their blood. He apparently had maintained an unhealthy fixation with Cadden for years, who had rebuffed his advances by claiming that her parents would never approve. It was true, they certainly would not have, and it was theorized that this led him to the violent murder. However, something about the situation made no sense to Vira. Could he truly have expected her to accept him after murdering her parents? He had been unaware that Cadden was embarking with the Herja, and this was taken as evidence that he had also intended for her to be his third victim. But once he learned of her departure, he changed his story, stating that Cadden had put him up to it. No one believed him. Sitting across from the young woman, who was now calm, Vira realized that she wasn’t sure. 
 
 “No, they haven’t caught them yet.”
 
-Cadden tried to hide it, but she was clearly relieved. She hadn’t wanted him to be caught. Vira realized in that moment that Artur had been telling the truth.
+Cadden tried to hide it, but she was clearly relieved. She hadn’t wanted him to be caught. Vira realized in that moment that Mason had been telling the truth.
 
 “It was a fucking video game.”
 
@@ -327,7 +327,7 @@ Vira said nothing.
 
 “Are we done here?”
 
-Whether or not this interview could be used to incriminate Cadden, she was not sure. Perhaps she was too valuable to the mission, and they would turn a blind eye. Afterall, whatever had happened occurred hundreds of millions of miles away. 
+Whether or not this interview could be used to incriminate Cadden, she was not sure. Perhaps she was too valuable to the mission, and they would turn a blind eye. After all, whatever had happened occurred hundreds of millions of miles away. 
 
 “We can end it here.”
 
@@ -355,7 +355,7 @@ Vira found that her tongue was numb and she could find nothing more to say. Some
 
 “That wasn’t what I was thinking.” 
 
-“It’s hard to explain. But I just couldn’t. Artur… he. He will suffer in prison for the rest of his life because of me.”
+“It’s hard to explain. But I just couldn’t. Mason… he. He will suffer in prison for the rest of his life because of me.”
 
 “How did you...? You can read me.”
 Cadden smiled but tears filled her eyes once again.
@@ -372,7 +372,7 @@ When the time came the next day, they walked together to the hypersleep chamber 
 
 “Thank you. For everything. Now, I’m going to go see them again.”
 
-A reoccuring dream had never been reported from hypersleep, the dreams were always new. Vira forced down the sinking feeling that she had set up the young woman for a hyper-nightmare. 
+A reoccurring dream had never been reported from hypersleep, the dreams were always new. Vira forced down the sinking feeling that she had set up the young woman for a hyper-nightmare. 
 
 “They’ll be waiting for you. Sweet dreams.” So many lies. Was this the true role of the guides?
 
@@ -388,7 +388,7 @@ After six years, Cadden was scheduled to be awakened again. Vira tried not to th
 
 ---
 
-Vira retired on her 83rd birthday, celebrating with her children and grandchildren who now served as the guides aboard the Herja. Beyond her difficulties early in her career, she had proven to be distinguished and reliable in her duties. She enjoyed talking through the cases her descendents were considering, and they tolerated her meandering stories that sometimes ended with no point. Yet, she never mentioned Cadden, the woman who had forced her way into her heart and never left. Nor did she ever talk about the notebook where she did her best to calculate the days. She narrowed it down to a 60 day window. Each day she used her walker to make her way to the garden deck. She sat blissfully on the same bench that she had once seen Cadden, and looked up into the trees, wondering what the young woman had been seeing with her discriminating gaze. 
+Vira retired on her 83rd birthday, celebrating with her children and grandchildren who now served as the guides aboard the Herja. Beyond her difficulties early in her career, she had proven to be distinguished and reliable in her duties. She enjoyed talking through the cases her descendants were considering, and they tolerated her meandering stories that sometimes ended with no point. Yet, she never mentioned Cadden, the woman who had forced her way into her heart and never left. Nor did she ever talk about the notebook where she did her best to calculate the days. She narrowed it down to a 60 day window. Each day she used her walker to make her way to the garden deck. She sat blissfully on the same bench that she had once seen Cadden, and looked up into the trees, wondering what the young woman had been seeing with her discriminating gaze. 
 
 After over a month, Vira began to lose hope that she had estimated Cadden’s awakening correctly, but when she sat there she felt a deeper connection to her than anywhere else. 
 

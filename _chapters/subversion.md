@@ -103,7 +103,7 @@ Inside, rays of light cut through the fallen shelves to books in various states 
 
 Standing next to him now I hear the warmth in his voice and know his smile is slowly growing as he rolls around the words with delight in his mind. I want to live here with him. Among these pages regardless of the danger.
 
-In the stillness a shadow on the wall glances off one of the puddles near us. Immediately my father grabs my arm and shifts me behind him. Without looking down he pulls a long metal tool from his tool bag and turns up our suit lights. Cutting back into the dark corners on the far side where shelves remain sagging - the light catches eyes. Iridescent. Terror escapes me as a scream that my father cuts short, grabbing me, “stay behind me and move with me slowly.” The open archway back into the main entrance and outside is almost cut off as the creature moves between us and the exit. I see my father’s grip tighten on the tool now turned weapon as the shadows slip off the dark furred canine, something likely bred from one of the pets from Earth. Its fangs are sharp enough to rip our haz-suits. My father moves us back along the wall I entered, the legends to my back. As we move down the rows of still standing shelves it keeps pace from the center of the room glaring between the stacks back at us. Just before the archway is a circular desk and as we pass the last shelf the animal lunges from floor, splashing, to the desk, claws craving against the surface, and at us. The swing of the tool meets it in midair, a singular muted tone and a yelp. My father shoves me back as he turns his full weight into the next swing and I hear the squish of the dense tone again. No more cries from the animal.
+In the stillness a shadow on the wall glances off one of the puddles near us. Immediately my father grabs my arm and shifts me behind him. Without looking down he pulls a long metal tool from his tool bag and turns up our suit lights. Cutting back into the dark corners on the far side where shelves remain sagging - the light catches eyes. Iridescent. Terror escapes me as a scream that my father cuts short, grabbing me, “stay behind me and move with me slowly.” The open archway back into the main entrance and outside is almost cut off as the creature moves between us and the exit. I see my father’s grip tighten on the tool now turned weapon as the shadows slip off the dark-furred canine, something likely bred from one of the pets from Earth. Its fangs are sharp enough to rip our haz-suits. My father moves us back along the wall I entered, the legends to my back. As we move down the rows of still standing shelves it keeps pace from the center of the room glaring between the stacks back at us. Just before the archway is a circular desk and as we pass the last shelf the animal lunges from floor, splashing, to the desk, claws craving against the surface, and at us. The swing of the tool meets it in midair, a singular muted tone and a yelp. My father shoves me back as he turns his full weight into the next swing and I hear the squish of the dense tone again. No more cries from the animal.
 
 When my father turns back to me I see almost the same crazed eyes I saw earlier across the room but from a man covered in red streaks over the once clear mask. 
 
@@ -113,7 +113,7 @@ Outside, we lock the door. His only words are, “I’ll take care of it later.�
 
 <div class="dalle"><a title="DALL·E Info" href="https://labs.openai.com/s/HA9OrHHtU4lD86pmV37sXGVi"><img alt="The station as the rouge sunset flares" src="../../assets/dalle2-subversion-rouge-sunset.jpg"></a></div>
 
-We make it back to the station as the rouge sunset flares on the horizon over the group of small structures in our research outpost. After decontamination we look through the photos from our day in his work room: dried skat from a herbivore, black and gray fur scraped into the rough bark of a tree, and the paw prints we studied. Incomplete stories, but now I have experienced the pieces that my father draws from. We add the best to the walls of his study, covered with overlapping photos and pages many found by him or shared by a colleague digging through rubble in one of the zones. After several drinks and loud debates my father usually bursting into laughter. He was constantly floating between deeply serious and spontaneously funny. 
+We make it back to the station as the rouge sunset flares on the horizon over the group of small structures in our research outpost. After decontamination we look through the photos from our day in his work room: dried scat from a herbivore, black and gray fur scraped into the rough bark of a tree, and the paw prints we studied. Incomplete stories, but now I have experienced the pieces that my father draws from. We add the best to the walls of his study, covered with overlapping photos and pages many found by him or shared by a colleague digging through rubble in one of the zones. He was constantly floating between deeply serious and spontaneously funny. After several drinks and loud debates my father would usually burst into laughter.  
 
 ---
 
@@ -132,7 +132,7 @@ The next morning on the counter I found a small envelope with "To My Traveling H
 > To My Traveling Hope Ada,\
 > It took until almost 230 years after Doomsday for the radioactive isotopes to decay before even short excursions into the Exclusion Zones were permitted. The loss of human life, lands, animals, and ways of living and thinking are innumerable. 
 >
-> The scale of each missing thing weighed on your mother more with each day. One day it crushed her and she wandered off alone like a wounded animal to die alone. My greatest fear when digging through the debris is that one day I'll find her. Gone in every sense but unspeakably cast into my memory forever in some terrible contorted form. I remember her as the woman she was when you were born, not as the broken woman who left. She loved you deeply.
+> The scale of each missing thing weighed on your mother more with each day. One day it crushed her and she wandered off like a wounded animal to die alone. My greatest fear when digging through the debris is that one day I'll find her. Gone in every sense but unspeakably cast into my memory forever in some terrible contorted form. I remember her as the woman she was when you were born, not as the broken woman who left. She loved you deeply.
 >
 > This research station has been my home for more years than any other place. The other families here helped hold us together and to raise you and your older brother. He barely blinked once he could enlist to defend us from the terrorist who he feared would strike again. Losing your brother pierced me, his stoic face cracking as the convoy reached the gates of our station. I hoped his path would not be yours. 
 >
@@ -152,11 +152,11 @@ The next morning on the counter I found a small envelope with "To My Traveling H
 > All my love,\
 > Q
 
-I spent hours imagining ways to deal with the disappointment of being rejected for my inexperience. My father's expertise meant his application was a mere formality. I sat in his office, in the chair he spent hours writing, and opened the responses once they arrived. 
+I spent hours imagining ways to deal with the disappointment of being rejected for my inexperience. My father's expertise meant his application was a mere formality. I sat in his office, in the chair he spent hours writing in, and opened the responses once they arrived. 
 
 "Dr. Quorn, your application has been denied for: subversion."
 
-My application however said "accepted: Active Research Position I."
+My application however said "accepted: Awake Research Position I."
 
 I sat for a long time trying to tease out the series of steps that led to a universe where someone as intelligent as my father would be denied for something so clearly false. How could any of this be true?
 
